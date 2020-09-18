@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Dolby Automation  :EXECUTABLE_DS]">
+  <test name="SearchPage_SP_TC_03_SP_TC_03(failed)">
+    <parameter name="TC_DESCRIPTIONS" value="SP_TC_03"/>
+    <parameter name="TC_NAME" value="SP_TC_03"/>
+    <parameter name="PASSWORD" value="Qa@valtech123!"/>
+    <parameter name="OS_VERSION" value="YES"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="EMAIL" value="qatest"/>
+    <parameter name="REUSABLE_TC_ID" value="HP_TC_02"/>
+    <parameter name="URL" value="https://helixint.dolby.com/quality-assurance/finder"/>
+    <classes>
+      <class name="in.valtech.test.SP_TC_03">
+        <methods>
+          <include name="methodLevelSetup"/>
+          <include name="classLevelTearDown"/>
+          <include name="setUp"/>
+          <include name="methodLevelTearDown"/>
+          <include name="Step07_ClickAcceptCOokie"/>
+          <include name="suiteSetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- in.valtech.test.SP_TC_03 -->
+    </classes>
+  </test> <!-- SearchPage_SP_TC_03_SP_TC_03(failed) -->
+</suite> <!-- Failed suite [Dolby Automation  :EXECUTABLE_DS] -->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="Dolby">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="//192.168.128.55/d$/eclipse/"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.8"/>
+    <property name="source" value="1.8"/>
+    <path id="TestNG.libraryclasspath">
+        <pathelement location="${ECLIPSE_HOME}plugins/org.testng.eclipse_6.11.0.201703011520/lib/testng.jar"/>
+        <pathelement location="${ECLIPSE_HOME}plugins/org.testng.eclipse_6.11.0.201703011520/lib/jcommander.jar"/>
+        <pathelement location="${ECLIPSE_HOME}plugins/org.testng.eclipse_6.11.0.201703011520/lib/bsh-2.0b4.jar"/>
+        <pathelement location="${ECLIPSE_HOME}plugins/org.testng.eclipse_6.11.0.201703011520/lib/snakeyaml.jar"/>
+    </path>
+    <path id="Dolby.classpath">
+        <path refid="TestNG.libraryclasspath"/>
+        <pathelement location="bin"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/adam-cli_2.10-0.18.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/client-combined-3.0.1-nodeps.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/commons-codec-1.5.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/commons-logging-1.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/dom4j-1.6.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/guice-3.0.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/json-simple-1.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/junit-4.11.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/jxl-2.6.12.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/log4j-1.2.13.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/org.testng.eclipse_6.8.6.20130607_0745.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/org.testng.eclipse_6.8.6.20141201_2240.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-examples-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-excelant-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-ooxml-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/reportng-1.1.4.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/selenium-server-standalone-3.0.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/sqljdbc.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/sqljdbc4.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/stax-api-1.0.1.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/testng-5.9-jdk15.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/velocity-dep-1.4.jar"/>
+        <pathelement location="C:/Users/Suraj.Jena/Documents/jars/xmlbeans-2.3.0.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="Dolby.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target name="GenerateTestNGXML">
+        <java classname="in.valtech.util.GenerateTestNGXML" failonerror="true" fork="yes">
+            <classpath refid="Dolby.classpath"/>
+        </java>
+    </target>
+</project>

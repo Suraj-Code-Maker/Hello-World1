@@ -1,0 +1,517 @@
+2020-08-20 16:55:52 INFO  LP_TC_01:57 - Base test started
+2020-08-20 16:55:52 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 16:55:52 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 16:55:52 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 16:55:52 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 16:55:52 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 16:55:52 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:03:00 INFO  LP_TC_01:57 - Base test started
+2020-08-20 17:03:00 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 17:03:00 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 17:03:00 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 17:03:00 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 17:03:00 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 17:03:00 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:03:42 INFO  LP_TC_01:57 - Base test started
+2020-08-20 17:03:42 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 17:03:42 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 17:03:42 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 17:03:42 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 17:03:42 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 17:03:42 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:05:49 INFO  LP_TC_01:57 - Base test started
+2020-08-20 17:05:49 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 17:05:49 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 17:05:49 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 17:05:49 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 17:05:49 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 17:05:49 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:08:41 INFO  LP_TC_01:57 - Base test started
+2020-08-20 17:08:41 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 17:08:41 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 17:08:41 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 17:08:41 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 17:08:41 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 17:08:41 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:08:48 INFO  LP_TC_01:92 - Window Size is: (1552, 840)
+2020-08-20 17:08:48 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-20 17:09:26 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-20 17:09:26 INFO  LoginPage:122 - User Entered password in the password field
+2020-08-20 17:09:26 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-20 17:09:26 INFO  LoginPage:141 - User logged in to the application & lands on the Experience finder landing page
+2020-08-20 17:16:06 INFO  LP_TC_01:57 - Base test started
+2020-08-20 17:16:06 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-20 17:16:06 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-20 17:16:06 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-20 17:16:06 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-20 17:16:06 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-20 17:16:06 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-20 17:16:13 INFO  LP_TC_01:92 - Window Size is: (1552, 840)
+2020-08-20 17:16:13 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-20 17:16:19 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-20 17:16:19 INFO  LoginPage:106 - User Entered user name in the textbox
+2020-08-20 17:16:20 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-20 17:16:20 INFO  LoginPage:122 - User Entered password in the password field
+2020-08-20 17:16:26 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-20 17:16:26 INFO  LoginPage:141 - User logged in to the application & lands on the Experience finder landing page
+2020-08-24 17:03:36 INFO  LP_TC_01:57 - Base test started
+2020-08-24 17:03:36 INFO  LP_TC_01:58 - Test case Name= LP_TC_01
+2020-08-24 17:03:36 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-24 17:03:36 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-24 17:03:36 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-24 17:03:36 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-24 17:03:36 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-24 17:03:45 INFO  LP_TC_01:92 - Window Size is: (1552, 840)
+2020-08-24 17:03:45 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-24 17:41:39 INFO  LP_TC_01:57 - Base test started
+2020-08-24 17:41:39 INFO  LP_TC_01:58 - Test case Name= HP_TC_06
+2020-08-24 17:41:39 INFO  LP_TC_01:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-24 17:41:39 INFO  LP_TC_01:64 - Driver Name = CHROME
+2020-08-24 17:41:39 INFO  LP_TC_01:67 - UserName = qatest
+2020-08-24 17:41:39 INFO  LP_TC_01:70 - Password = Qa@valtech123!
+2020-08-24 17:41:39 INFO  LP_TC_01:73 - osVersion_Config = YES
+2020-08-24 17:41:47 INFO  LP_TC_01:92 - Window Size is: (1552, 840)
+2020-08-24 17:41:47 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-24 17:52:22 INFO  HP_TC_02:57 - Base test started
+2020-08-24 17:52:22 INFO  HP_TC_02:58 - Test case Name= HP_TC_02
+2020-08-24 17:52:22 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/
+2020-08-24 17:52:22 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-08-24 17:52:22 INFO  HP_TC_02:67 - UserName = qatest
+2020-08-24 17:52:22 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-08-24 17:52:22 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-08-24 17:52:30 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-08-24 17:52:30 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-24 17:52:38 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:52:38 INFO  Homepage:99 - User Entered user name in the textbox
+2020-08-24 17:52:38 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:52:38 INFO  Homepage:115 - User Entered password in the password field
+2020-08-24 17:52:44 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:52:44 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-24 17:52:49 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:52:49 INFO  Homepage:152 - User logged in to the application & click on cookies accepting button
+2020-08-24 17:53:26 INFO  HP_TC_02:57 - Base test started
+2020-08-24 17:53:26 INFO  HP_TC_02:58 - Test case Name= HP_TC_02
+2020-08-24 17:53:26 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/
+2020-08-24 17:53:26 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-08-24 17:53:26 INFO  HP_TC_02:67 - UserName = qatest
+2020-08-24 17:53:26 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-08-24 17:53:26 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-08-24 17:53:32 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-08-24 17:53:33 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-24 17:53:40 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:53:40 INFO  Homepage:99 - User Entered user name in the textbox
+2020-08-24 17:53:40 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:53:40 INFO  Homepage:115 - User Entered password in the password field
+2020-08-24 17:53:45 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:53:45 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-24 17:53:55 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:53:55 INFO  Homepage:152 - User logged in to the application & click on cookies accepting button
+2020-08-24 17:57:00 INFO  HP_TC_02:57 - Base test started
+2020-08-24 17:57:00 INFO  HP_TC_02:58 - Test case Name= HP_TC_02
+2020-08-24 17:57:00 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/
+2020-08-24 17:57:00 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-08-24 17:57:00 INFO  HP_TC_02:67 - UserName = qatest
+2020-08-24 17:57:00 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-08-24 17:57:00 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-08-24 17:57:08 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-08-24 17:57:08 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-24 17:57:16 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:57:16 INFO  Homepage:99 - User Entered user name in the textbox
+2020-08-24 17:57:16 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-24 17:57:16 INFO  Homepage:115 - User Entered password in the password field
+2020-08-24 17:57:21 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:57:21 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-24 17:57:26 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:57:26 INFO  Homepage:152 - User logged in to the application & click on cookies accepting button
+2020-08-24 17:57:34 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-24 17:57:34 INFO  Homepage:169 - User logged in to the application & click pause button
+2020-08-25 15:25:29 INFO  SP_TC_03:57 - Base test started
+2020-08-25 15:25:29 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-08-25 15:25:29 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-25 15:25:29 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-08-25 15:25:29 INFO  SP_TC_03:67 - UserName = qatest
+2020-08-25 15:25:29 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-08-25 15:25:29 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-08-25 15:25:37 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-08-25 15:25:37 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-25 15:25:44 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:25:44 INFO  SearchPage:99 - User Entered user name in the textbox
+2020-08-25 15:25:44 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:25:44 INFO  SearchPage:115 - User Entered password in the password field
+2020-08-25 15:25:52 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:25:52 INFO  SearchPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-25 15:26:17 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:26:17 INFO  SearchPage:169 - User logged in to the application & click On breadcrumbutton
+2020-08-25 15:28:48 INFO  SP_TC_03:57 - Base test started
+2020-08-25 15:28:48 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-08-25 15:28:48 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-25 15:28:48 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-08-25 15:28:48 INFO  SP_TC_03:67 - UserName = qatest
+2020-08-25 15:28:48 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-08-25 15:28:48 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-08-25 15:28:54 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-08-25 15:28:54 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-25 15:29:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:29:02 INFO  SearchPage:99 - User Entered user name in the textbox
+2020-08-25 15:29:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:29:02 INFO  SearchPage:115 - User Entered password in the password field
+2020-08-25 15:29:08 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:29:08 INFO  SearchPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-25 15:29:16 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:29:16 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-08-25 15:29:24 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:29:24 INFO  SearchPage:169 - User logged in to the application & click On breadcrumbutton
+2020-08-25 15:31:56 INFO  SP_TC_03:57 - Base test started
+2020-08-25 15:31:56 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-08-25 15:31:56 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-25 15:31:56 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-08-25 15:31:56 INFO  SP_TC_03:67 - UserName = qatest
+2020-08-25 15:31:56 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-08-25 15:31:56 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-08-25 15:32:03 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-08-25 15:32:03 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-25 15:32:10 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:32:10 INFO  SearchPage:99 - User Entered user name in the textbox
+2020-08-25 15:32:10 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:32:10 INFO  SearchPage:115 - User Entered password in the password field
+2020-08-25 15:32:16 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:32:16 INFO  SearchPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-25 15:32:24 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:32:24 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-08-25 15:32:32 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:32:32 INFO  SearchPage:169 - User logged in to the application & click On breadcrumbutton
+2020-08-25 15:36:21 INFO  SP_TC_03:57 - Base test started
+2020-08-25 15:36:21 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-08-25 15:36:21 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-08-25 15:36:21 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-08-25 15:36:21 INFO  SP_TC_03:67 - UserName = qatest
+2020-08-25 15:36:21 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-08-25 15:36:21 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-08-25 15:36:28 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-08-25 15:36:28 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-25 15:36:35 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:36:35 INFO  SearchPage:99 - User Entered user name in the textbox
+2020-08-25 15:36:35 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-25 15:36:35 INFO  SearchPage:115 - User Entered password in the password field
+2020-08-25 15:36:42 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:36:42 INFO  SearchPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-25 15:36:51 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:36:51 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-08-25 15:36:59 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:36:59 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-08-25 15:37:07 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-25 15:37:07 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-08-26 18:51:20 INFO  TB_TC_04:57 - Base test started
+2020-08-26 18:51:20 INFO  TB_TC_04:58 - Test case Name= TB_TC_04
+2020-08-26 18:51:20 INFO  TB_TC_04:61 - Application URL = https://helixint.dolby.com/quality-assurance/tabbed-page
+2020-08-26 18:51:20 INFO  TB_TC_04:64 - Driver Name = CHROME
+2020-08-26 18:51:20 INFO  TB_TC_04:67 - UserName = qatest
+2020-08-26 18:51:20 INFO  TB_TC_04:70 - Password = Qa@valtech123!
+2020-08-26 18:51:20 INFO  TB_TC_04:73 - osVersion_Config = YES
+2020-08-26 18:51:28 INFO  TB_TC_04:92 - Window Size is: (1552, 840)
+2020-08-26 18:51:28 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-26 18:51:37 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-26 18:51:37 INFO  TabbedPage:99 - User Entered user name in the textbox
+2020-08-26 18:51:37 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-26 18:51:37 INFO  TabbedPage:115 - User Entered password in the password field
+2020-08-26 18:51:47 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-26 18:51:47 INFO  TabbedPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-27 17:08:18 INFO  XFLP_TC_05:57 - Base test started
+2020-08-27 17:08:18 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-08-27 17:08:18 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-08-27 17:08:18 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-08-27 17:08:18 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-08-27 17:08:18 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-08-27 17:08:18 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-08-27 17:08:26 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-08-27 17:08:26 INFO  GUIFunctions:187 - cookies are deleted
+2020-08-27 17:08:34 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-27 17:08:34 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-08-27 17:08:34 INFO  GUIFunctions:117 - text is filled with the given value
+2020-08-27 17:08:34 INFO  XFLPage:115 - User Entered password in the password field
+2020-08-27 17:08:44 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-27 17:08:44 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-08-27 17:08:52 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-08-27 17:08:52 INFO  XFLPage:152 - User logged in to the application & click on cookies accepting button
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:34 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:34 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:34 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:34 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:34 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:34 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:34 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:38 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:38 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:38 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:38 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:38 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:38 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:38 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:38 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:38 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:38 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:38 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:38 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:38 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:38 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:38 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:45:38 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:45:38 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:45:38 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:45:38 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:45:38 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:45:38 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:45:51 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:45:51 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:45:52 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:45:52 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:45:52 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:45:52 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:45:56 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:45:56 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:45:56 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:45:56 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:46:01 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:46:01 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:46:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:02 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:02 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:02 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:02 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:02 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:03 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:03 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:04 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:04 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:04 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:04 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:04 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:04 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:04 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:04 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:06 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:46:06 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:46:06 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:46:06 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:46:10 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:10 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:46:10 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:10 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:46:10 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:46:10 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:46:11 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:11 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:46:20 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:20 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:46:20 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:20 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:46:20 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:20 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:46:22 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:46:22 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-07 15:47:03 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:47:03 INFO  XFLPage:169 - User logged in to the application & click On ChangeTabhey
+2020-09-07 15:47:04 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:47:04 INFO  XFLPage:169 - User logged in to the application & click On ChangeTabhey
+2020-09-07 15:48:25 INFO  XFLP_TC_05:57 - Base test started
+2020-09-07 15:48:25 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-07 15:48:25 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-07 15:48:25 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-07 15:48:25 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-07 15:48:25 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-07 15:48:25 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-07 15:48:31 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-07 15:48:32 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-07 15:48:38 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:48:38 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-07 15:48:38 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-07 15:48:38 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-07 15:48:44 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-07 15:48:44 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 15:35:09 INFO  XFLP_TC_05:57 - Base test started
+2020-09-08 15:35:09 INFO  XFLP_TC_05:58 - Test case Name= XFLP_TC_05
+2020-09-08 15:35:09 INFO  XFLP_TC_05:61 - Application URL = https://helixint.dolby.com/quality-assurance/experience-finder
+2020-09-08 15:35:09 INFO  XFLP_TC_05:64 - Driver Name = CHROME
+2020-09-08 15:35:09 INFO  XFLP_TC_05:67 - UserName = qatest
+2020-09-08 15:35:09 INFO  XFLP_TC_05:70 - Password = Qa@valtech123!
+2020-09-08 15:35:09 INFO  XFLP_TC_05:73 - osVersion_Config = YES
+2020-09-08 15:35:16 INFO  XFLP_TC_05:92 - Window Size is: (1552, 840)
+2020-09-08 15:35:16 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 15:35:25 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:35:25 INFO  XFLPage:99 - User Entered user name in the textbox
+2020-09-08 15:35:25 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:35:25 INFO  XFLPage:115 - User Entered password in the password field
+2020-09-08 15:35:33 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:35:33 INFO  XFLPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 15:35:41 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:35:41 INFO  XFLPage:152 - User logged in to the application & click on cookies accepting button
+2020-09-08 15:36:14 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:36:14 INFO  XFLPage:169 - User logged in to the application & click On ChangeTabhey
+2020-09-08 15:39:08 INFO  SP_TC_03:57 - Base test started
+2020-09-08 15:39:08 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-09-08 15:39:08 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 15:39:08 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-09-08 15:39:08 INFO  SP_TC_03:67 - UserName = qatest
+2020-09-08 15:39:08 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-09-08 15:39:08 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-09-08 15:39:13 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-09-08 15:39:14 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 15:43:12 INFO  SP_TC_03:57 - Base test started
+2020-09-08 15:43:12 INFO  SP_TC_03:58 - Test case Name= SP_TC_03
+2020-09-08 15:43:12 INFO  SP_TC_03:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 15:43:12 INFO  SP_TC_03:64 - Driver Name = CHROME
+2020-09-08 15:43:12 INFO  SP_TC_03:67 - UserName = qatest
+2020-09-08 15:43:12 INFO  SP_TC_03:70 - Password = Qa@valtech123!
+2020-09-08 15:43:12 INFO  SP_TC_03:73 - osVersion_Config = YES
+2020-09-08 15:43:19 INFO  SP_TC_03:92 - Window Size is: (1552, 840)
+2020-09-08 15:43:19 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 15:43:26 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:43:26 INFO  SearchPage:99 - User Entered user name in the textbox
+2020-09-08 15:43:26 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:43:26 INFO  SearchPage:115 - User Entered password in the password field
+2020-09-08 15:43:30 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:43:30 INFO  SearchPage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 15:43:38 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:43:38 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-09-08 15:43:46 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:43:46 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 15:43:54 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:43:54 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-09-08 15:58:49 INFO  HP_TC_02:57 - Base test started
+2020-09-08 15:58:49 INFO  HP_TC_02:58 - Test case Name= SP_TC_03
+2020-09-08 15:58:49 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 15:58:49 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-09-08 15:58:49 INFO  HP_TC_02:67 - UserName = qatest
+2020-09-08 15:58:49 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-09-08 15:58:49 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-09-08 15:58:55 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-09-08 15:58:55 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 15:59:03 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:59:03 INFO  Homepage:99 - User Entered user name in the textbox
+2020-09-08 15:59:03 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 15:59:03 INFO  Homepage:115 - User Entered password in the password field
+2020-09-08 15:59:07 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:59:07 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 15:59:52 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 15:59:52 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-09-08 16:00:00 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:00:00 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 16:00:08 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:00:08 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-09-08 16:03:27 INFO  HP_TC_02:57 - Base test started
+2020-09-08 16:03:28 INFO  HP_TC_02:58 - Test case Name= SP_TC_03
+2020-09-08 16:03:28 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 16:03:28 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-09-08 16:03:28 INFO  HP_TC_02:67 - UserName = qatest
+2020-09-08 16:03:28 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-09-08 16:03:28 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-09-08 16:03:34 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-09-08 16:03:34 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 16:03:42 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:03:42 INFO  Homepage:99 - User Entered user name in the textbox
+2020-09-08 16:03:42 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:03:42 INFO  Homepage:115 - User Entered password in the password field
+2020-09-08 16:03:46 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:03:46 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 16:04:25 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:04:25 INFO  SearchPage:152 - User logged in to the application & click on cookies accepting button
+2020-09-08 16:04:33 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:04:33 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 16:04:41 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:04:41 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-09-08 16:05:28 INFO  HP_TC_02:57 - Base test started
+2020-09-08 16:05:28 INFO  HP_TC_02:58 - Test case Name= SP_TC_03
+2020-09-08 16:05:28 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 16:05:28 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-09-08 16:05:28 INFO  HP_TC_02:67 - UserName = qatest
+2020-09-08 16:05:28 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-09-08 16:05:28 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-09-08 16:05:35 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-09-08 16:05:35 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 16:05:41 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:05:41 INFO  Homepage:99 - User Entered user name in the textbox
+2020-09-08 16:05:41 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:05:41 INFO  Homepage:115 - User Entered password in the password field
+2020-09-08 16:05:45 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:05:45 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 16:05:59 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:05:59 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 16:06:07 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:06:07 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-09-08 16:07:44 INFO  HP_TC_02:57 - Base test started
+2020-09-08 16:07:44 INFO  HP_TC_02:58 - Test case Name= SP_TC_03
+2020-09-08 16:07:44 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 16:07:44 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-09-08 16:07:44 INFO  HP_TC_02:67 - UserName = qatest
+2020-09-08 16:07:44 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-09-08 16:07:44 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-09-08 16:07:50 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-09-08 16:07:50 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 16:07:59 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:07:59 INFO  Homepage:99 - User Entered user name in the textbox
+2020-09-08 16:08:02 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:08:02 INFO  Homepage:115 - User Entered password in the password field
+2020-09-08 16:08:13 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:08:13 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 16:08:24 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:08:24 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 16:08:32 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:08:32 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton
+2020-09-08 16:09:28 INFO  HP_TC_02:57 - Base test started
+2020-09-08 16:09:28 INFO  HP_TC_02:58 - Test case Name= SP_TC_03
+2020-09-08 16:09:28 INFO  HP_TC_02:61 - Application URL = https://helixint.dolby.com/quality-assurance/finder
+2020-09-08 16:09:28 INFO  HP_TC_02:64 - Driver Name = CHROME
+2020-09-08 16:09:28 INFO  HP_TC_02:67 - UserName = qatest
+2020-09-08 16:09:28 INFO  HP_TC_02:70 - Password = Qa@valtech123!
+2020-09-08 16:09:28 INFO  HP_TC_02:73 - osVersion_Config = YES
+2020-09-08 16:09:34 INFO  HP_TC_02:92 - Window Size is: (1552, 840)
+2020-09-08 16:09:34 INFO  GUIFunctions:187 - cookies are deleted
+2020-09-08 16:09:43 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:09:43 INFO  Homepage:99 - User Entered user name in the textbox
+2020-09-08 16:09:46 INFO  GUIFunctions:117 - text is filled with the given value
+2020-09-08 16:09:46 INFO  Homepage:115 - User Entered password in the password field
+2020-09-08 16:10:02 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:10:02 INFO  Homepage:134 - User logged in to the application & lands on the Experience finder landing page
+2020-09-08 16:10:11 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:10:11 INFO  SearchPage:169 - User logged in to the application & click On Humburgermenu
+2020-09-08 16:10:19 INFO  GUIFunctions:85 - Successfully clicked the button '
+2020-09-08 16:10:19 INFO  SearchPage:186 - User logged in to the application & click On breadcrumbutton

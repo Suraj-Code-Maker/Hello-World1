@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Dolby Automation  :EXECUTABLE_DS" group-by-instances="true">
+  <test name="SearchPage_SP_TC_03_SP_TC_03">
+    <parameter name="TC_DESCRIPTIONS" value="SP_TC_03"/>
+    <parameter name="TC_NAME" value="SP_TC_03"/>
+    <parameter name="PASSWORD" value="Qa@valtech123!"/>
+    <parameter name="OS_VERSION" value="YES"/>
+    <parameter name="DRIVER" value="CHROME"/>
+    <parameter name="EMAIL" value="qatest"/>
+    <parameter name="REUSABLE_TC_ID" value="HP_TC_02"/>
+    <parameter name="URL" value="https://helixint.dolby.com/quality-assurance/finder"/>
+    <classes>
+      <class name="in.valtech.test.HP_TC_02"/>
+      <class name="in.valtech.test.SP_TC_03"/>
+    </classes>
+  </test> <!-- SearchPage_SP_TC_03_SP_TC_03 -->
+</suite> <!-- Dolby Automation  :EXECUTABLE_DS -->
